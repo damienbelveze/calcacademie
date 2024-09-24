@@ -107,17 +107,18 @@ Consigne générale : les exercices doivent être faits avec le logiciel libre C
 
 ### Consignes, Objectifs
 
+
 | **partie** |**Consigne** | **Objectif** | **Difficulté** |
 | --- | --- | --- | --- |
 | 3.1 | Trier les cellules de la colonne G par ordre alphabétique croissant en englobant dans le tri les colonnes H et I | Tri | ⭐  |
 | 3.2 | Compter le nombre d'occurrences du prénom violet dans la base des étudiants, afficher le chiffre en B111 | Ctr+F / fonction NB.SI | ⭐ / ⭐⭐⭐ |
-| changer la casse de la colonne A et B (tout en minuscule) | formatage du texte | ⭐⭐ |
-| 3.3 | Rechercher remplacer par des voyelles sans accent tous les caractères diacritiques dans les colonnes A et B (é, è, ë, ô, etc.) | formatage du texte | ⭐⭐ |
-| 3.4 | Séparer le texte présent dans la colonne E en deux parties : avant le @ en colonne E, @ et nom de domaine du mail en colonne E | texte en colonnes | ⭐⭐ |
-| 3.5 | Dans la colonne J, afficher automatique la valeur Admis ou Recalé (si le score est supérieur ou égal à 50 : admis, s'il est inférieur à 50 : recalé) | formatage conditionnel | ⭐⭐⭐ |
-| 3.6 | Dans un tableau, afficher la somme des admis et celle des recalés dans le groupe 3 | tableau croisé dynamique | ⭐⭐⭐ |
-| 3.7 | Créer une nouvelle colonne C vide, s'en servir pour inverser les valeurs présentes dans les colonnes A et B (mettre le prénom en A et le nom en B), laisser la colonne C vide | copier-coller de colonnes | ⭐  |
-| 3.8 | Dans une nouvelle colonne, afficher la liste des étudiants présents dans la base des étudiants mais qui n'ont pas réalisé l'activité (afficher le résultat en colonne Y (Nom) et Z (Prénom) | tri avec extraction sans doublons) | ⭐⭐⭐⭐ |
-| 3.9 | Dans une nouvelle colonne, afficher la liste des étudiants absents dans la base des étudiants mais qui ont bien réalisé l'activité | tri avec extraction sans doublons | ⭐⭐⭐⭐ |
-| 3.10 | Dans la colonne C, concaténer les valeurs présentes en colonne A et B (prénom + nom en réservant un espace entre les deux) | concaténation | ⭐⭐⭐ |
-| 3.11 | Dans les colonnes AA et AB afficher automatiquement les mails et le numéro de groupe des personnes dont les noms et les prénoms se trouvent en Y et Z (au besoin prévoir de concaténer prénoms et noms présents en colonne Y et Z comme on l'a fait pour plus haut) | Recherche verticale | ⭐⭐⭐⭐ |
+| 3.3 | changer la casse de la colonne A et B (tout en minuscule) | formatage du texte | ⭐⭐ |
+| 3.4 | Rechercher remplacer par des voyelles sans accent tous les caractères diacritiques dans les colonnes A et B (é, è, ë, ô, etc.) | formatage du texte | ⭐⭐ |
+| 3.5 | Séparer le texte présent dans la colonne E en deux parties : avant le @ en colonne E, @ et nom de domaine du mail en colonne E | texte en colonnes | ⭐⭐ |
+| 3.6 | Dans la colonne J, afficher automatique la valeur Admis ou Recalé (si le score est supérieur ou égal à 50 : admis, s'il est inférieur à 50 : recalé) | formatage conditionnel | ⭐⭐⭐ |
+| 3.7 | Dans un tableau, afficher la somme des admis et celle des recalés dans le groupe 3 | tableau croisé dynamique | ⭐⭐⭐ |
+| 3.8 | Créer une nouvelle colonne C vide, s'en servir pour inverser les valeurs présentes dans les colonnes A et B (mettre le prénom en A et le nom en B), laisser la colonne C vide | copier-coller de colonnes | ⭐  |
+| 3.9 | Dans une nouvelle colonne, afficher la liste des étudiants présents dans la base des étudiants mais qui n'ont pas réalisé l'activité (afficher le résultat en colonne Y (Nom) et Z (Prénom) | tri avec extraction sans doublons) | ⭐⭐⭐⭐ |
+| 3.10 | Dans une nouvelle colonne, afficher la liste des étudiants absents dans la base des étudiants mais qui ont bien réalisé l'activité | tri avec extraction sans doublons | ⭐⭐⭐⭐ |
+| 3.11 | Dans la colonne C, concaténer les valeurs présentes en colonne A et B (prénom + nom en réservant un espace entre les deux) | concaténation | ⭐⭐⭐ |
+| 3.12 | Dans les colonnes AA et AB afficher automatiquement les mails et le numéro de groupe des personnes dont les noms et les prénoms se trouvent en Y et Z (au besoin prévoir de concaténer prénoms et noms présents en colonne Y et Z comme on l'a fait pour plus haut) | Recherche verticale | ⭐⭐⭐⭐ |
